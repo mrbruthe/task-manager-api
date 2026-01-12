@@ -1,0 +1,1 @@
+The Task Manager App is a simple yet powerful tool for organizing tasks, tracking progress, and boosting productivity. It allows users to create, update, and manage tasks with ease, making it ideal for personal use or team collaboration.
